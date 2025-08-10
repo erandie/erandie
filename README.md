@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hey, Um Erandie! 👋</h1>
+  <h1 align="center">Hey, Um Erandie! 👧</h1>
   <br>
   <strong>Undergraduate Software Engineering Student 🎓</strong>
 </p>
