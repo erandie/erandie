@@ -1,9 +1,9 @@
 <p align="center">
   <h1>Hey, Um Erandi Gamage 👩‍🎓</h1>
   <br>
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=500&lines=Not+a+coding+wizard+yet,+but+I+cast+new+spells+every+day!+✨)
-  <br>
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7AB0A&center=true&vCenter=true&width=500&lines=Not+a+coding+wizard+yet...;but+I+cast+new+spells+every+day+✨)
 </p>
+
 
 ## About Me
 - 🎓 Software Engineering undergrad
