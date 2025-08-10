@@ -1,4 +1,8 @@
-# Hey, I'm Erandie! 👋
+<p align="center">
+  <h1>Hey, Um Erandie! 👋</h1>
+  <br>
+  <strong>Undergraduate Software Engineering Student 🎓</strong>
+</p>
 
 ## About Me
 - 🎓 Software Engineering undergrad
