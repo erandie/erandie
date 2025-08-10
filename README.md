@@ -1,26 +1,8 @@
-<div style="text-align: center;">
+
   <h1>Hey, Um Erandi Gamage 👩‍🎓</h1>
-  <p id="typing"></p>
-</div>
-
-<script>
-  const text = "Not a coding wizard yet… but I cast new spells every day ✨";
-  let index = 0;
-  const speed = 100; // typing speed in ms
-  const typingElement = document.getElementById('typing');
-
-  function typeWriter() {
-    if (index < text.length) {
-      typingElement.innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  typeWriter();
-</script>
-
-
+  <br>
+  <p> </p>
+  
 ## About Me
 - 🎓 Software Engineering undergrad
 - 💻 Passionate about coding & tech
