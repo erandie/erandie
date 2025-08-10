@@ -1,7 +1,24 @@
 <p align="center">
   <h1>Hey, Um Erandi Gamage 👩‍🎓</h1>
   <br>
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7AB0A&center=true&vCenter=true&width=500&lines=Not+a+coding+wizard+yet...;but+I+cast+new+spells+every+day+✨)
+ <p id="typing"></p>
+
+<script>
+  const text = "Not a coding wizard yet… but I cast new spells every day ✨";
+  let index = 0;
+  const speed = 100; // typing speed in ms
+  const typingElement = document.getElementById('typing');
+
+  function typeWriter() {
+    if (index < text.length) {
+      typingElement.innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  typeWriter();
+</script>
 </p>
 
 
