@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hey, Um Erandie! 👩‍🎓</h1>
   <br>
-  <strong>Undergraduate Software Engineering Student 🎓</strong>
+  <strong>Not a coding wizard yet… but I cast new spells every day ✨</strong>
 </p>
 
 ## About Me
