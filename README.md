@@ -2,6 +2,7 @@
   <h1>Hey, Um Erandie! 👩‍🎓</h1>
   <br>
   <strong>Not a coding wizard yet… but I cast new spells every day ✨</strong>
+  <br>
 </p>
 
 ## About Me
