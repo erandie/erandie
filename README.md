@@ -1,7 +1,7 @@
-<p align="center">
+<div style="text-align: center;">
   <h1>Hey, Um Erandi Gamage 👩‍🎓</h1>
-  <br>
- <p id="typing"></p>
+  <p id="typing"></p>
+</div>
 
 <script>
   const text = "Not a coding wizard yet… but I cast new spells every day ✨";
@@ -19,7 +19,6 @@
 
   typeWriter();
 </script>
-</p>
 
 
 ## About Me
